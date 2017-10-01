@@ -1,0 +1,308 @@
+
+
+
+
+
+AU  - Brian T. Pentland
+AU  - Thorvald Hærem
+AU  - Derek Hillison
+TI  - The (N)Ever-Changing World: Stability and Change in Organizational Routines
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1369-1383
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1110.0624 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0624
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1110.0624
+SO  - Organization Science November-December 2011 22(6):1369
+AB  - This paper uses data on invoice processing in four organizations to distinguish empirically between two competing theories of organizational routines. One theory predicts that routines should generate patterns of action that are few in number and stable over time, and that atypical patterns of action are driven primarily by exceptional inputs. The competing theory predicts the opposite. By modeling the routines as networks of action and using a first-order Markov model to test for stationarity, we find support for the competing theory. The routines generated hundreds of unique patterns that changed significantly during a five-month period without any apparent external intervention. Changes did not appear to reflect improved performance or learning. Furthermore, we found that exogenous factors (such as large invoices from unusual vendors) are not associated with atypical patterns of action, but endogenous factors (such as the experience of the participants) are. We also found that increased automation can increase variation under some circumstances. These findings offer empirical support for endogenous change in organizational routines and underscore the importance of the sociomaterial context in understanding stability and change.
+
+AU  - Anita Williams Woolley
+TI  - Playing Offense vs. Defense: The Effects of Team Strategic Orientation on Team Process in Competitive Environments
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1384-1398
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0617 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0617
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0617
+SO  - Organization Science November-December 2011 22(6):1384
+AB  - Organizations increasingly rely on teams to formulate plans and respond in critical situations. However, current models of team process are insensitive to the effects of team strategic orientation. This paper expands existing work on team process and strategic orientation to introduce and explicate the constructs of offensive and defensive strategic orientations in teams. It takes advantage of a rare opportunity to observe eight counterterrorism teams in the intelligence community that explicitly adopted an offensive or defensive strategic orientation in evaluating terrorist threats. The resulting inductive model suggests that the strength of a team's strategic orientation was enhanced or inhibited by its perception of oppositional strength and the problem scope it assumed in confronting the adversary. This in turn had effects on the work strategy the teams adopted, the extent to which they relied on internal versus external knowledge, and the norms for effort that evolved within the teams. The observations suggest broader theoretical implications for research on teams, as the “offense” and “defense” strategic orientations influence fundamental team processes related to effort, performance strategy, and use of member knowledge and skill.
+
+AU  - Carliss Baldwin
+AU  - Eric von Hippel
+TI  - Modeling a Paradigm Shift: From Producer Innovation to User and Open Collaborative Innovation
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1399-1417
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0618 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0618
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0618
+SO  - Organization Science November-December 2011 22(6):1399
+AB  - In this paper, we assess the economic viability of innovation by producers relative to two increasingly important alternative models: innovations by single-user individuals or firms and open collaborative innovation. We analyze the design costs and architectures and communication costs associated with each model. We conclude that both innovation by individual users and open collaborative innovation increasingly compete with and may displace producer innovation in many parts of the economy. We explain why this represents a paradigm shift with respect to innovation research, policy making, and practice. We discuss important implications and offer suggestions for further research.
+
+AU  - Andrew V. Shipilov
+AU  - Stan Xiao Li
+AU  - Henrich R. Greve
+TI  - The Prince and the Pauper: Search and Brokerage in the Initiation of Status-Heterophilous Ties
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1418-1434
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0594 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0594
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0594
+SO  - Organization Science November-December 2011 22(6):1418
+AB  - We combine structural hole theory with performance feedback theory to identify determinants of partner selection in networks. Specifically, we examine how a brokerage position coupled with aspiration–performance gaps affects an organization's propensity to initiate ties to partners of different status. We find that organizations in brokerage positions are more likely than nonbrokers to initiate such ties systematically. However, when the performance of an organization in a brokerage position deviates from its aspirations, the organization changes its partner selection strategy and starts initiating ties to partners of similar status. Our results also suggest that organizations in brokerage positions set social and historical aspiration levels differently from nonbrokers, levels that in turn affect decisions about partner selection.
+
+AU  - Wei Zhao
+AU  - Xueguang Zhou
+TI  - Status Inconsistency and Product Valuation in the California Wine Market
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1435-1448
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0597 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0597
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0597
+SO  - Organization Science November-December 2011 22(6):1435
+AB  - This study develops a theoretical model on the role of multidimensional status and status inconsistency in market evaluation processes. A product or an organization may acquire multiple status indicators in association with a multitude of market institutions. We argue that when status indicators are consistently positive, each exerts a greater positive effect on the valuation of a product or an organization; conversely, inconsistency among multiple indicators undermines the status claim. We test this theoretical proposition by examining patterns of product valuation in the California premium wine market. Our findings show that when an individual wine's tasting score rated by critics and another more general status indicator—classified appellation affiliation, extra designation on the label, or a winery's organizational status—are consistently positive, each makes a greater contribution to wine price. In contrast, when status indicators are inconsistent, the value of the positive status indicator is reduced. Our study explicates the scope conditions under which market status may yield different outcomes and sheds light on the interplay among status indicators in market valuation.
+
+AU  - Giacomo Negro
+AU  - Michael T. Hannan
+AU  - Hayagreeva Rao
+TI  - Category Reinterpretation and Defection: Modernism and Tradition in Italian Winemaking
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1449-1463
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0619 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0619
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0619
+SO  - Organization Science November-December 2011 22(6):1449
+AB  - When two groups of market actors differ in how to interpret a common label, each can make claims over the label. One categorical interpretation and the group that supports it risk disappearance if the rival interpretation gains ground. We argue that when members of the endangered category become partial defectors that span categories, their history presents challenges to the identity of nondefectors that will inhibit further change. Our empirical analysis of “traditionalism” and “modernism” in the making of Barolo and Barbaresco wines supports this argument.
+
+AU  - Samer Faraj
+AU  - Steven L. Johnson
+TI  - Network Exchange Patterns in Online Communities
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1464-1480
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0600 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0600
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0600
+SO  - Organization Science November-December 2011 22(6):1464
+AB  - Large-scale online communities rely on computer-mediated communication between participants, enabling them to sustain interactions and exchange on a scale hitherto unknown. Yet little research has focused on how these online communities sustain themselves and how their interactions are structured. In this paper, we theorize and empirically measure the network exchange patterns of long-duration sustainable online communities. We propose that participation dynamics follow specific forms of social exchange: direct reciprocity, indirect reciprocity, and preferential attachment. We integrate diverse findings about individual participation motivations by identifying how individual behavior manifests in network-level structures of online communities. We studied five online communities over 27 months and analyzed 38,483 interactions using exponential random graph (p*) models and mixed-effects analysis of covariance. In a test of competing models, we found that network exchange patterns in online community communication networks are characterized by direct reciprocity and indirect reciprocity patterns and, surprisingly, a tendency away from preferential attachment. Our findings undermine previous explanations that online exchange follows a power law distribution based on people wanting to connect to “popular” others in online communities. Our work contributes to theories of new organizational forms by identifying network exchange patterns that regulate participation and sustain online communities.
+
+AU  - Cristina B. Gibson
+AU  - Jennifer L. Gibbs
+AU  - Taryn L. Stanko
+AU  - Paul Tesluk
+AU  - Susan G. Cohen
+TI  - Including the “I” in Virtuality and Modern Job Design: Extending the Job Characteristics Model to Include the Moderating Effect of Individual Experiences of Electronic Dependence and Copresence
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1481-1499
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0586 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0586
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0586
+SO  - Organization Science November-December 2011 22(6):1481
+AB  - This paper extends the job characteristics model (JCM) to address virtual work design. We argue that the effects of critical job characteristics (task significance, autonomy, and feedback) on psychological states (experienced meaningfulness, responsibility, and knowledge of results) differ depending on two important elements of virtuality and their interactions with important social mechanisms: individual experiences of electronic dependence and its interaction with intimacy and the interaction of copresence with identification. Findings across 177 workers from a variety of settings varying in industry, size, and structure supported several moderating effects of virtuality and three-way interactions that included intimacy and identification, suggesting important modifications of the JCM. In addition, effects were not uniformly parallel for both elements of virtuality, emphasizing the need to differentiate between the effects of electronic dependence and copresence. We discuss the implications of these findings for theory and practice.
+
+AU  - M. Lourdes Sosa
+TI  - From Old Competence Destruction to New Competence Access: Evidence from the Comparison of Two Discontinuities in Anticancer Drug Discovery
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1500-1516
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0616 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0616
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0616
+SO  - Organization Science November-December 2011 22(6):1500
+AB  - Research in creative destruction has argued that competence-destroying discontinuities result in incumbents' underperformance in research and development (R&D) with respect to entrants, even if complementary assets aid incumbents in retaining market share. In this paper, I propose that attention to the extent of competence destruction is necessary but not sufficient. An analysis of differences in R&D performance through a discontinuity requires assessment not only of old competence destruction but also of new competence access; that is, it requires assessment of both old capability obsolescence and new capability acquisition. I find evidence for this proposition in data from the biotechnology disruption to the anticancer drug market. In particular, my research design is a within-market matched pair of discontinuities: from chemotherapy to small-molecule targeted drugs, and from chemotherapy to large-molecule targeted drugs. Although equally competence destroying, the two discontinuities differ in the access incumbents have to the new capabilities required: whereas all new capabilities are available in the former, one new capability is inaccessible to incumbents (and to many entrants) in the latter. The contrasting results of these two discontinuities support my proposition: in the competence-destroying discontinuity with full access to new capabilities, incumbents did not fall behind entrants; in the other discontinuity, incumbents fell behind only those entrants that owned the difficult-to-access new capability. I close with implications for research in creative destruction, in rational adaptation to environmental change, and in strategic renewal.
+
+AU  - Dovev Lavie
+AU  - Jingoo Kang
+AU  - Lori Rosenkopf
+TI  - Balance Within and Across Domains: The Performance Implications of Exploration and Exploitation in Alliances
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1517-1538
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0596 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0596
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0596
+SO  - Organization Science November-December 2011 22(6):1517
+AB  - Organizational research advocates that firms balance exploration and exploitation, yet it acknowledges inherent challenges in reconciling these opposing activities. To overcome these challenges, such research suggests that firms establish organizational separation between exploring and exploiting units or engage in temporal separation whereby they oscillate between exploration and exploitation over time. Nevertheless, these approaches entail resource allocation trade-offs and conflicting organizational routines, which may undermine organizational performance as firms seek to balance exploration and exploitation within a discrete field of organizational activity (i.e., domain). We posit that firms can overcome such impediments and enhance their performance if they explore in one domain while exploiting in another. Studying the alliance portfolios of software firms, we demonstrate that firms do not typically benefit from balancing exploration and exploitation within the function domain (technology versus marketing and production alliances) and structure domain (new versus prior partners). Nevertheless, firms that balance exploration and exploitation across these domains by engaging in research and development alliances while collaborating with their prior partners, or alternatively, by forming marketing and production alliances while seeking new partners, gain in profits and market value. Moreover, we reveal that increases in firm size that exacerbate resource allocation trade-offs and routine rigidity reinforce the benefits of balance across domains and the costs of balance within domains. Our domain separation approach offers new insights into how firms can benefit from balancing exploration and exploitation. What matters is not simply whether firms balance exploration and exploitation in their alliance formation decisions but the means by which they achieve such balance.
+
+AU  - Tammar B. Zilber
+TI  - Institutional Multiplicity in Practice: A Tale of Two High-Tech Conferences in Israel
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1539-1559
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0611 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0611
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0611
+SO  - Organization Science November-December 2011 22(6):1539
+AB  - In this paper I uncover the routine, ongoing practices that sustain institutional multiplicity. Drawing on a comparative study of the two high-tech conferences held in Israel in 2002, I examine how diverse institutions are discursively handled in field-configuring events. Institutional multiplicity was expressed at this site through two identity discourses, one that situated the industry within a national context and another that oriented it toward the global markets. In addition, the conferences were constructed around different best-practice discourses that focused on guidelines for either investment or management. These four discourses reflected and further affected power relations between the field's actors, and they were differentially distributed across separate social spaces between the conferences and within them. The contribution of this study to our understanding of institutional multiplicity lies in demonstrating how it is maintained in practice, politically negotiated between actors, and refracted across separate social spaces.
+
+AU  - Cheryl Gaimon
+AU  - Gülru F. Özkan
+AU  - Karen Napoleon
+TI  - Dynamic Resource Capabilities: Managing Workforce Knowledge with a Technology Upgrade
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1560-1578
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0598 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0598
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0598
+SO  - Organization Science November-December 2011 22(6):1560
+AB  - Although managers invest in new technology to improve performance, often the benefits sought are elusive while the costs incurred far exceed expectations. The literature offers insights to help explain this phenomenon. Evidence suggests that, while carefully considering the purchase cost, managers often underestimate the costs and planning necessary for proper implementation. Consequently, short-term problems arise and long-term benefits are not realized. A model is introduced that integrates workforce knowledge management with the technology upgrade decision. The manager upgrades technology or pursues general training of the workforce in response to depreciation in the ability of each resource to drive net income over time. Depreciation occurs because of changes in consumer preferences and competition. Although adding to technology capability, an upgrade makes a portion of workforce knowledge obsolete. The manager invests in preparatory training prior to the upgrade to reduce obsolescence. Whereas general training is pursued to respond to depreciation by enhancing the ability of the workforce to improve existing products or create new products, preparatory training is technology-specific and focused on preparing for a technology upgrade. We find that the rates of preparatory and general training follow entirely different paths over time. Conditions are given where a manager uses one training strategy as a substitute for or complement to the other. We show that training strategies are not only impacted by learning phenomena such as the rate of forgetting, but also by the rates of technology depreciation and advancement. We show how workforce learning phenomena impact the technology upgrade decision.
+
+AU  - Shahzad (Shaz) Ansari
+AU  - Nelson Phillips
+TI  - Text Me! New Consumer Practices and Change in Organizational Fields
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1579-1599
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0595 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0595
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0595
+SO  - Organization Science November-December 2011 22(6):1579
+AB  - While scholars have provided increasingly well-developed theoretical frameworks for understanding the role of institutional entrepreneurs and other purposeful actors in bringing about change in organizational fields, much less attention has been paid to the role of unorganized, nonstrategic actors in catalyzing change. In particular, the role of consumers remains largely uninvestigated. In this article, we draw on a case of the introduction of text messaging in the United Kingdom to explore the role of consumers in catalyzing change in organizational fields. Text messaging has become a widely diffused and institutionalized communication practice, in part changing mobile telephony from a voice-based, aural, and synchronous experience to a text-based, visual, and asynchronous experience. As consumers innovated and diffused new practices around this product, their actions led to significant changes in the field. We suggest how and under what conditions consumers are likely to innovate at the micro level and, with the subsequent involvement of other actors, catalyze change at the field level. Our primary contribution is to show how the cumulative effect of the spontaneous activities of one important and particularly dispersed and unorganized group can lead to changes in a field. By showing how change can result from the uncoordinated actions of consumers accumulating and converging over time, we provide an alternative explanation of change in organizational fields that does not privilege purposeful actors such as institutional entrepreneurs.
+
+AU  - Andy C. L. Yeung
+AU  - Chris K. Y. Lo
+AU  - T. C. E. Cheng
+TI  - Behind the Iron Cage: An Institutional Perspective on ISO 9000 Adoption and CEO Compensation
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1600-1612
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1110.0652 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0652
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1110.0652
+SO  - Organization Science November-December 2011 22(6):1600
+AB  - Although institutional theorists maintain that the widespread diffusion of ISO 9000 is the result of institutional forces, they have neglected the potential gains to top management in the perpetuation of the standard. Based on a long-horizon event study with control firms to detect long-term abnormal financial gains, we investigate the impact of ISO 9000 adoption on CEO compensation in the U.S. manufacturing industry from 1994 to 2006. We find that the CEOs' total cash compensation was positively adjusted when their firms received ISO 9000 certification, and they received higher-value stock options when their firms embarked on ISO 9000 certification. However, the performance of the ISO 9000 certified firms was not improved throughout this period. Our further analyses suggest that it is likely that the CEO influences the board to obtain higher compensation under an institutionalized environment. Contrary to the traditional institutional theory-based view, we argue that a highly institutionalized environment does provide political opportunities for organizational actors to garner personal advantages.
+
+AU  - David W. Lehman
+AU  - Jungpil Hahn
+AU  - Rangaraj Ramanujam
+AU  - Bradley J. Alge
+TI  - The Dynamics of the Performance–Risk Relationship Within a Performance Period: The Moderating Role of Deadline Proximity
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1613-1630
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0626 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0626
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0626
+SO  - Organization Science November-December 2011 22(6):1613
+AB  - Risky organizational decisions are frequently made within the confines of performance periods with predefined durations and deadlines for achieving desired levels of performance. The relationship between performance and risk taking has been studied mostly across such periods but rarely within them. Building on the shifting-focus-of-attention model of organizational risk taking, we argue that the temporal proximity of deadlines regulates the focus of organizational attention within a performance period. Decision makers will focus their attention on attaining and maintaining aspirations early in a period; however, as deadlines approach, decision makers in underperforming firms will increasingly be likely to focus on ensuring survival, whereas decision makers in outperforming firms will increasingly be likely to focus on experimenting with slack resources. We propose that the relationship between performance and risk taking should thus be moderated by deadline proximity within a performance period. We tested and found support for our hypotheses in the context of 22,603 fourth-down decisions made by the 32 National Football League teams during the 2000–2005 regular season games. Our findings suggest that the notion of temporally bound performance periods and deadline proximity should play a more central role in attention-based frameworks of organizational risk taking.
+
+AU  - Gautam Ahuja
+AU  - Sai Yayavaram
+TI  - PERSPECTIVE—Explaining Influence Rents: The Case for an Institutions-Based View of Strategy
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1631-1652
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0623 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0623
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0623
+SO  - Organization Science November-December 2011 22(6):1631
+AB  - Research in strategy has identified and tried to explain four types of rents: monopolistic rents, efficiency rents, quasi rents, and Schumpeterian rents. Building on previous work on political and institutional strategies, we add a fifth type of rent: influence rents. Influence rents are the extra profits earned by a firm because the rules of the game (laws, regulations, and informal rules) are designed or changed to suit it. To aid the analysis of the relationship between institutional context and firm performance and to provide a structure to guide research, we develop a framework with five key components: (a) an identification of the five fundamental problems of a market economy, (b) a typology that describes the five different types of institutions that emerge to solve these problems, (c) the market-ordering mechanisms used by institutions to solve these problems, (d) the common causes of weak institutional performance, and (e) generic strategies used by firms to exploit these weaknesses of an institutional context to enhance firm performance. We highlight potential applications of the framework as well as an illustrative research agenda that can advance the development of theory to explain the emergence and persistence of influence rents.
+
+AU  - Zur Shapira
+TI  - CROSSROADS—The Atlantic Divide: American and European Approaches to Strategy Research
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1653-1654
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0610 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0610
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0610
+SO  - Organization Science November-December 2011 22(6):1653
+AB  - Unlike most of the social sciences, the field of strategy originated in the United States and arrived in Europe later. Did this trajectory lead to an “Atlantic divide” in strategy research? Does such a divide exist? The papers that follow debate the issue and the effects that such a potential divide may have on the growth of the field.
+
+AU  - Joseph Lampel
+TI  - Torn Between Admiration and Distrust: European Strategy Research and the American Challenge
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1655-1662
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0608 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0608
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0608
+SO  - Organization Science November-December 2011 22(6):1655
+AB  - European strategy research is a relatively late entrant into the field of strategic management. This has put the European strategy researchers at a disadvantage vis-à-vis their American counterparts when it comes to competing for scarce publication space in “top” journals. Many European researchers have responded to the challenge by adopting research paradigms that are dominant in American strategy research, but others argue that Europe should maintain its own distinct research tradition. In this paper, I argue that European ambivalence toward market-based competition for scholarly reputation combined with centralized funding of research is responsible for this division of opinion. However, I also argue that institutional differences between Europe and the United States contribute to a diversity in strategy research that should be welcomed rather than suppressed.
+
+AU  - Joel A. C. Baum
+TI  - European and North American Approaches to Organizations and Strategy Research: An Atlantic Divide? Not.
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1663-1679
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1100.0609 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0609
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1100.0609
+SO  - Organization Science November-December 2011 22(6):1663
+AB  - It is customary among contemporary organization theorists to equate North American and European scholarship with objectivist and subjectivist metatheoretical positions (respectively), treat these positions as mutually exclusive alternatives, and debate which is best suited to understanding organizational phenomena. Fueled by this dispute, questions of bias and fears of colonization are readily apparent in academic reviews of three recent “handbooks” of organizations. Caught in the current of these tensions, I was prompted to assess the status of this “Atlantic divide.” To do so, I examined the three recent compendia in terms of the rhetoric academic reviewers employed to characterize them and the geographic locations, preferred journals, and university affiliations of scholars who refer to them. The results are striking. Despite the unanimous typecasting of the volumes as epitomizing either objectivist North American or subjectivist European traditions, the geographic distributions of researchers citing them are indistinguishable. Citations to each compendium are, however, clustered within particular journals and among authors with particular university affiliations—but neither the journals nor universities are neatly North American or European. Current associations of these traditions with North American and European scholarship thus seem driven more by academic rhetoric than authentic continental distinctions. I examine the roots of this rhetorical mapping and explore its implications for the field. I advocate abandonment of the myth of the Atlantic divide and exploitation of perspectives that do not privilege the subjectivist–objectivist dichotomy.
+
+TI  - Organization Science Author Index—Volume 22 2011
+PT  - Journal Article
+DP  - 2011
+TA  - Organization Science
+PG  - 1680-1683
+VI  - 22
+IP  - 6
+AID  - 10.1287/orsc.1110.0713 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/orsc.1110.0713
+4100  - http://pubsonline.informs.org/doi/full/10.1287/orsc.1110.0713
+SO  - Organization Science November-December 2011 22(6):1680
+
+
