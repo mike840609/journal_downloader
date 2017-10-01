@@ -13,7 +13,6 @@ mccabe==0.6.1
 post==0.0.13
 public==0.0.38
 pylint==1.7.4
-pypiwin32==219
 query-string==0.0.12
 request==0.0.13
 requests==2.18.4
