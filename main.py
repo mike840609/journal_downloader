@@ -65,7 +65,7 @@ def downloadPDF(urlsArr):
 
 def main():
 
-    str_temp =  loadUrlFromTxtOrUrl('informs_orsc22_1369.txt')
+    str_temp =  loadUrlFromTxtOrUrl('informs_mksc36_471.txt')
     
     urls = getUrls(str_temp)
     # print urls

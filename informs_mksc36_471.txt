@@ -1,0 +1,138 @@
+
+
+
+
+
+AU  - Ron N. Borkovsky
+AU  - Avi Goldfarb
+AU  - Avery M. Haviv
+AU  - Sridhar Moorthy
+TI  - Measuring and Understanding Brand Value in a Dynamic Model of Brand Management
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 471-499
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2016.1020 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1020
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2016.1020
+SO  - Marketing Science July-August 2017 36(4):471
+AB  - We develop a structural model of brand management to estimate the value of a brand to a firm. In our framework, a brand’s value is the expected net present value of future cash flows accruing to a firm due to its brand. Our brand value measure recognizes that a firm can change its brand equity by investing in advertising. We estimate quarterly brand values in the stacked chips category for the period 2001–2006 and explore how those values change over time. Comparing our brand value measure to its static counterpart, we find that a static measure, which ignores advertising and its ability to affect brand equity dynamics, yields brand values that are artificially high and that fluctuate too much over time. We also explore how changing the ability to build and sustain brand equity affects brand value. At our estimated parameterization, if brand equity were to depreciate more slowly, or if advertising were more effective at building brand equity, then brand value would increase. However, counterintuitively, we find that when the effectiveness of advertising is sufficiently high, increasing the rate at which brand equity depreciates can increase the value of a firm’s brand, even as it reduces the value of the firm overall. Data and the online appendix are available at https://doi.org/10.1287/mksc.2016.1020.
+
+AU  - Eric M. Schwartz
+AU  - Eric T. Bradlow
+AU  - Peter S. Fader
+TI  - Customer Acquisition via Display Advertising Using Multi-Armed Bandit Experiments
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 500-522
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2016.1023 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1023
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2016.1023
+SO  - Marketing Science July-August 2017 36(4):500
+AB  - Firms using online advertising regularly run experiments with multiple versions of their ads since they are uncertain about which ones are most effective. During a campaign, firms try to adapt to intermediate results of their tests, optimizing what they earn while learning about their ads. Yet how should they decide what percentage of impressions to allocate to each ad? This paper answers that question, resolving the well-known “learn-and-earn” trade-off using multi-armed bandit (MAB) methods. The online advertiser’s MAB problem, however, contains particular challenges, such as a hierarchical structure (ads within a website), attributes of actions (creative elements of an ad), and batched decisions (millions of impressions at a time), that are not fully accommodated by existing MAB methods. Our approach captures how the impact of observable ad attributes on ad effectiveness differs by website in unobserved ways, and our policy generates allocations of impressions that can be used in practice. We implemented this policy in a live field experiment delivering over 750 million ad impressions in an online display campaign with a large retail bank. Over the course of two months, our policy achieved an 8% improvement in the customer acquisition rate, relative to a control policy, without any additional costs to the bank. Beyond the actual experiment, we performed counterfactual simulations to evaluate a range of alternative model specifications and allocation rules in MAB policies. Finally, we show that customer acquisition would decrease by about 10% if the firm were to optimize click-through rates instead of conversion directly, a finding that has implications for understanding the marketing funnel. Data is available at https://doi.org/10.1287/mksc.2016.1023.
+
+AU  - Donald Ngwe
+TI  - Why Outlet Stores Exist: Averting Cannibalization in Product Line Extensions
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 523-541
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1031 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1031
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1031
+SO  - Marketing Science July-August 2017 36(4):523
+AB  - Outlet stores offer attractive prices at locations far from central shopping districts. They form a large and growing component of many firms’ retailing strategies, particularly in the fashion industry. I use a structural demand model to show that consumers are segmented according to their sensitivity to travel distance and taste for product newness. I then develop a supply model to predict product development responses to changes in store locations. Through policy simulations, I discover that the firm uses outlet stores to serve lower-value consumers who self-select by traveling to outlet stores from central shopping districts. The firm sells older, less desirable merchandise through outlet stores to prevent cannibalization of regular store revenues by means of exploiting the positive correlation between consumers’ travel sensitivity and taste for new products. I find that the rate of new product introduction in regular stores would fall by 16% if outlet stores were closed down, while variable profits would decline by 23%. These results imply that the existence of outlet stores may enable firms to improve quality in their regular channels, thus counteracting brand dilution effects. Data are available at https://doi.org/10.1287/mksc.2017.1031.
+
+AU  - Babur De los Santos
+AU  - Sergei Koulayev
+TI  - Optimizing Click-Through in Online Rankings with Endogenous Search Refinement
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 542-564
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1036 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1036
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1036
+SO  - Marketing Science July-August 2017 36(4):542
+AB  - Consumers engage in costly searches to evaluate the increasing number of product options available from online retailers. Presenting the best alternatives at the beginning reduces search costs associated with a consumer finding the right product. We use rich data on consumer click-stream behavior from a major web-based hotel comparison platform to estimate a model of search and click. We propose a method of determining the ranking of search results that maximizes consumers’ click-through rates (CTRs) based on partial information available to the platform at the time of the consumer request, its assessment of consumers’ preferences, and the expected consumer type based on request parameters from the current visit. Our method has two distinct advantages. First, we endogenize a consumer response to the ranking using search refinement tools, such as sorting and filtering of product options. Accounting for these search refinement actions is important since the ranking and consumer search actions together shape the consideration set from which clicks are made. Second, rankings are targeted to anonymous consumers by relating price sensitivity to request parameters, such as the length of stay, number of guests, and day of the week of the stay. We find that predicted CTRs under our proposed ranking are almost double those of the platform’s default ranking. Data and the online appendix are available at https://doi.org/10.1287/mksc.2017.1036.
+
+AU  - Stephan Seiler
+AU  - Fabio Pinna
+TI  - Estimating Search Benefits from Path-Tracking Data: Measurement and Determinants
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 565-589
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1026 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1026
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1026
+SO  - Marketing Science July-August 2017 36(4):565
+AB  - We study consumer search behavior in a brick-and-mortar store environment, using a unique data set obtained from radio-frequency identification tags, which are attached to supermarket shopping carts. This technology allows us to record consumers’ purchases as well as the time they spent in front of the shelf when contemplating which product to buy, giving us a direct measure of search effort. We estimate a linear regression of price paid on search duration, in which search duration is instrumented with a search-cost shifter. We show that this regression allows us to recover the marginal return from search in terms of price at the optimal stopping point for the average consumer. Our identification strategy and coefficient interpretation are valid for a broad class of search models, and we are hence able to remain agnostic about the details of the search process, such as search order and search protocol. We estimate an average return from search of $2.10 per minute and explore heterogeneity across consumer types, product categories, and category location in the store. We find little difference in the returns from search across product categories, but large differences across consumer types and locations. Our findings suggest that situational factors, such as the location of the category or the timing of the search within the shopping trip, are more important determinants of search behavior than category characteristics such as the number of available products. Data are available at https://doi.org/10.1287/mksc.2017.1026.
+
+AU  - Mitsukuni Nishida
+TI  - First-Mover Advantage Through Distribution: A Decomposition Approach
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 590-609
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1029 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1029
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1029
+SO  - Marketing Science July-August 2017 36(4):590
+AB  - Whereas the extant literature on entry-order effects establishes that first entrants often earn higher market shares (“market-share advantage”), the literature on distribution suggests that increased distribution has a positive effect on sales. Can distribution help us better understand entry-order effects on market shares? This paper examines how the first entrant in a geographical market achieves a market-share advantage through distribution. For this purpose, I propose a simple method of decomposing sales into physical distribution and sales performance. The data come from a manually collected panel on six major Japanese convenience-store chains from 47 geographical markets between 1991 and 2007. Using an instrumental variable approach to address the potential endogeneity of entry order, I find first entrants have a positive market-share advantage over later entrants. Specifically, the physical distribution, measured by the number of outlets in a market, drives most of the advantage. Meanwhile, the positive effect on sales performance for the first chain brand becomes nonexistent when I control for the outlet density. This paper further finds that the density of own outlets is nonmonotonically (inverted U) related to sales performance per outlet, suggesting dynamic outlet expansion faces a trade-off between the business-stealing effect in a chain (“cannibalization”) and the advertising effect through repetition. Data and the online appendix are available at https://doi.org/10.1287/mksc.2017.1029.
+
+AU  - Song Lin
+TI  - Add-on Policies Under Vertical Differentiation: Why Do Luxury Hotels Charge for Internet While Economy Hotels Do Not?
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 610-625
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1028 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1028
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1028
+SO  - Marketing Science July-August 2017 36(4):610
+AB  - This paper examines firms’ product policies when they sell an add-on (e.g., Internet service) in addition to a base product (e.g., hotel rooms) under vertical differentiation (e.g., four- versus three-star hotels). I show that the role of an add-on differs; higher-quality firms prefer to sell it as optional to discriminate consumers, and lower-quality firms trade off discrimination and differentiation, trying to lure consumers from higher-quality rivals with a lower-price add-on. Equilibrium policies of lower-quality firms are more sensitive to the cost-to-value ratio of an add-on. If the ratio is sufficiently small, then they sell it to all consumers, potentially explaining why lower-end hotels are more likely than higher-end ones to offer free Internet service. Contrary to consensus in the literature, optional add-ons can intensify price competition over consumers who trade off a higher-quality base product versus a lower-quality base including an add-on. Hence, higher-quality firms are incentivized to commit to bundling, while lower-quality firms prefer to commit to not selling it. Add-ons can further reduce lower-quality firms’ profits if consumers cannot observe the prices, because holding up consumers ex post encourages them to switch to higher-quality rivals, which then become better off. Therefore, lower-quality firms are incentivized to advertise add-on prices, and higher-quality firms are not. The online appendix is available at https://doi.org/10.1287/mksc.2017.1028.
+
+AU  - Richard Friberg
+AU  - Mark Sanctuary
+TI  - The Effect of Retail Distribution on Sales of Alcoholic Beverages
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 626-641
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1038 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1038
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1038
+SO  - Marketing Science July-August 2017 36(4):626
+AB  - We use monthly sales of all wines, beer, and spirits sold between 2006 and 2011 by Sweden’s retail monopoly on alcohol to estimate the causal effect of retail distribution on market share by volume at the product level. Products are defined at the level of the stock-keeping unit. Two institutional features are key to identifying the causal effect: First, the monopolist uses four levels of retail distribution; a change in retail distribution is therefore associated with a discrete shift in the number of stores that carry a product in a given month. Second, the retailer is legally bound and monitored by the European Union to ensure that it acts in a non-discriminatory manner with all its suppliers. These features allow us to rule out many possible confounding factors in estimating the effect of distribution on sales volume. We find large and statistically significant effects from changes in retail distribution on market share by volume across all levels of retail distribution. The associated volume elasticity of retail distribution is convex; the wider the retail distribution the greater the marginal volume increase from further widening. In this market, wider distribution means reaching stores with successively smaller assortment. Our results indicate that the smaller assortment in smaller stores, coupled with a low resistance to compromise, is the main reason for the convex pattern. In other words, convexity appears to be generated by products achieving “a larger share of a smaller pie” as retail distribution expands. Data are available at https://doi.org/10.1287/mksc.2017.1038.
+
+TI  - Focus On Authors
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 642-643
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2017.1059 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2017.1059
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2017.1059
+SO  - Marketing Science July-August 2017 36(4):642
+
+
