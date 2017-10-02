@@ -7,6 +7,8 @@ import errno
 import time
 import datetime
 
+from tqdm import tqdm
+
 def loadUrlFromTxtOrUrl(path):
     file = open(path) 
     return file.read() 
@@ -42,15 +44,22 @@ def downloadPDF(urlsArr):
 
     for url in urlsArr:
 
+
         file_name = directory + url.split('/')[-1] + '.pdf'
 
         r = requests.get(url, stream=True)
 
+        total_size = int(r.headers.get('content-length', 0)); 
+
         with open( file_name , 'wb') as f:
+            # no progress bar
+            # for chunk in r.iter_content(chunk_size=1024*16): 
+            #      if chunk: 
+            #         f.write(chunk)
             
-            for chunk in r.iter_content(chunk_size=1024): 
-                 if chunk: 
-                    f.write(chunk)
+            # progress bar
+            for data in tqdm(r.iter_content(32*1024), total=total_size, unit='B', unit_scale=True):
+                f.write(data)
 
     print("Completed")
     
