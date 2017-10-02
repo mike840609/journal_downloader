@@ -1,0 +1,32 @@
+AU  - Ron N. Borkovsky
+AU  - Avi Goldfarb
+AU  - Avery M. Haviv
+AU  - Sridhar Moorthy
+TI  - Measuring and Understanding Brand Value in a Dynamic Model of Brand Management
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 471-499
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2016.1020 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1020
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2016.1020
+SO  - Marketing Science July-August 2017 36(4):471
+AB  - We develop a structural model of brand management to estimate the value of a brand to a firm. In our framework, a brand’s value is the expected net present value of future cash flows accruing to a firm due to its brand. Our brand value measure recognizes that a firm can change its brand equity by investing in advertising. We estimate quarterly brand values in the stacked chips category for the period 2001–2006 and explore how those values change over time. Comparing our brand value measure to its static counterpart, we find that a static measure, which ignores advertising and its ability to affect brand equity dynamics, yields brand values that are artificially high and that fluctuate too much over time. We also explore how changing the ability to build and sustain brand equity affects brand value. At our estimated parameterization, if brand equity were to depreciate more slowly, or if advertising were more effective at building brand equity, then brand value would increase. However, counterintuitively, we find that when the effectiveness of advertising is sufficiently high, increasing the rate at which brand equity depreciates can increase the value of a firm’s brand, even as it reduces the value of the firm overall. Data and the online appendix are available at https://doi.org/10.1287/mksc.2016.1020.
+
+AU  - Eric M. Schwartz
+AU  - Eric T. Bradlow
+AU  - Peter S. Fader
+TI  - Customer Acquisition via Display Advertising Using Multi-Armed Bandit Experiments
+PT  - Journal Article
+DP  - 2017
+TA  - Marketing Science
+PG  - 500-522
+VI  - 36
+IP  - 4
+AID  - 10.1287/mksc.2016.1023 [doi]
+4099  - http://pubsonline.informs.org/doi/abs/10.1287/mksc.2016.1023
+4100  - http://pubsonline.informs.org/doi/full/10.1287/mksc.2016.1023
+SO  - Marketing Science July-August 2017 36(4):500
+AB  - Firms using online advertising regularly run experiments with multiple versions of their ads since they are uncertain about which ones are most effective. During a campaign, firms try to adapt to intermediate results of their tests, optimizing what they earn while learning about their ads. Yet how should they decide what percentage of impressions to allocate to each ad? This paper answers that question, resolving the well-known “learn-and-earn” trade-off using multi-armed bandit (MAB) methods. The online advertiser’s MAB problem, however, contains particular challenges, such as a hierarchical structure (ads within a website), attributes of actions (creative elements of an ad), and batched decisions (millions of impressions at a time), that are not fully accommodated by existing MAB methods. Our approach captures how the impact of observable ad attributes on ad effectiveness differs by website in unobserved ways, and our policy generates allocations of impressions that can be used in practice. We implemented this policy in a live field experiment delivering over 750 million ad impressions in an online display campaign with a large retail bank. Over the course of two months, our policy achieved an 8% improvement in the customer acquisition rate, relative to a control policy, without any additional costs to the bank. Beyond the actual experiment, we performed counterfactual simulations to evaluate a range of alternative model specifications and allocation rules in MAB policies. Finally, we show that customer acquisition would decrease by about 10% if the firm were to optimize click-through rates instead of conversion directly, a finding that has implications for understanding the marketing funnel. Data is available at https://doi.org/10.1287/mksc.2016.1023.
