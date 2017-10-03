@@ -13,7 +13,7 @@ WINDOWS:
 
 
     virtuallen :
-        virtualenv -p /usr/bin/python2.7 venv 
+        virtualenv --python=c:\Python27\python.exe venv
         venv\Scripts\activate
     
     python main.py

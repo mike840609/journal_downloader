@@ -71,20 +71,20 @@ def main():
     # str_temp =  loadUrlFromTxtOrUrl('informs_mksc36_471.txt')
     # str_temp =  loadUrlFromTxtOrUrl('informs_orsc22_1369.txt')
     # str_temp =  loadUrlFromTxtOrUrl('informs_orsc28_597.txt')
-    str_temp = loadUrlFromTxtOrUrl('./urls_file/test.txt')
-    urls = getUrls(str_temp)
-    downloadPDF(urls)
+    # str_temp = loadUrlFromTxtOrUrl('./urls_file/test.txt')
+    # urls = getUrls(str_temp)
+    # downloadPDF(urls)
 
 
     #  batch download  ===========================================================
-    '''
+    
     all_files = os.listdir("./urls_file/")
 
     for file_name in all_files:
         str_temp =  loadUrlFromTxtOrUrl("./urls_file/" + file_name)
         urls = getUrls(str_temp)
         downloadPDF(urls)
-    '''
+    
 
 if __name__ == '__main__':
     main()
